@@ -1,0 +1,5 @@
+{
+  "name": "Ludo Game Challenge",
+  "description": "A classic Ludo game built with React, where a player competes against three computer-controlled opponents. The application features a dynamic game board, a 3D dice rolling animation, player status indicators, and a comprehensive game log. The core game logic is encapsulated and used to manage the game state and rules.",
+  "requestFramePermissions": []
+}
